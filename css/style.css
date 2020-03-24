@@ -1,0 +1,35 @@
+body{
+	background: #ccc5ff;
+	margin-left: 200px;
+}
+
+h1{
+	color: #5544d9;
+	font-family:arial; 
+}
+
+h2{
+	font-family:Times New Roman; 
+}
+
+header{
+	margin-top: 30px;
+}
+
+img{
+	margin-bottom: 30px;
+	width: 460px;
+}
+
+hr{
+	color: #5544d9;
+}
+
+footer{
+	margin-right: 200px;
+	text-align: center;
+}
+
+.logo{
+	width:160px;
+}
